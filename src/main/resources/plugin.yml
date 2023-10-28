@@ -1,0 +1,6 @@
+name: ResettableRegion
+version: '${version}'
+main: me.levitate.resettableregion.ResettableRegion
+api-version: '1.20'
+depend:
+  - WorldGuard
